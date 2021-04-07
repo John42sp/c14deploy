@@ -1,0 +1,7 @@
+node_modules
+text1.txt
+yarn.lock
+package-lock.json
+
+.env
+dist
